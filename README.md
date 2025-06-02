@@ -37,12 +37,6 @@ This project is part of an AI & ML Internship where I learned about tree-based m
 
 ---
 
-## 📂 Dataset
-
-I used the **Heart Disease Dataset** from Kaggle:  
-🔗 [Click to View Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
-
----
 
 ## 📸 Visualizations
 
@@ -50,8 +44,5 @@ I used the **Heart Disease Dataset** from Kaggle:
 - 🌲 Feature importance visualized as bar charts
 - 🧪 Overfitting analysis using train/test accuracy vs tree depth
 
----
-
-## 📁 File Included
 
 
