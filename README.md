@@ -32,7 +32,7 @@ This project is part of an AI & ML Internship where I learned about tree-based m
 
 - 🐍 Python
 - 📊 Pandas, Matplotlib, Seaborn
-- 🤖 Scikit-learn (`DecisionTreeClassifier`, `RandomForestClassifier`) / Can use Graphviz as well but I did not 😊
+- 🤖 Scikit-learn (`DecisionTreeClassifier`, `RandomForestClassifier`) / Can use Graphviz as well, but I did not 😊
 - 📈 Jupyter Notebook for experiments and visualization
 
 ---
